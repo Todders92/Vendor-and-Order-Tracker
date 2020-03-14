@@ -13,7 +13,7 @@ _This application allows the user to input vendors into a list and show a curren
 ## Behavior Driven Project Specifications
 
 | Behavior | Input | Output |
-|:---|:---:|:---:|
+|---|---|---|
 |User fills out a form to add vendors to a vendor list page |form is submitted|vendor name from form displays in list|
 |User can click on a vendor in the vendor list and is taken to an orders list|vendor from vendor list is clicked|list of orders for vendor displayed|
 |user can add orders to a vendor's order list through user interface|vendor order page's add order button is clicked|user is taken to order form|
